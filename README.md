@@ -14,6 +14,7 @@ This project implements various machine learning techniques including neural net
 ├── Project2_Part_d.py         # Part D: Activation functions
 ├── Project2_Part_e.py         # Part E: Ridge and LASSO regression
 ├── Project2_Part_f.py         # Part F: MNIST classification
+├── Project2_Notebook.ipynb    # Jupyter Notebook of Parts B-F
 ```
 
 ### Quick Start
